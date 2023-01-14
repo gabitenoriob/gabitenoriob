@@ -15,7 +15,7 @@
   <a href ="https://www.linkedin.com/in/gabriela-ten%C3%B3rio-2b60621b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   
   
-  ![Snake animation](https://github.com/rafaballerini2/gabitenoriob/blob/output/github-contribution-grid-snake.svg)
+ 
 
 </div>
 
