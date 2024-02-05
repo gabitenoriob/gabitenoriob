@@ -2,7 +2,7 @@
 
 
 - 💻 Iniciando no mundo da computação 
-- 📚 Ciência da Computação UFAL 3/8
+- 📚 Ciência da Computação UFAL 4/8
 
   
  <div align="center">
