@@ -1,9 +1,6 @@
 ## Olá, me chamo Gabriela Tenório
 
 
-- 💻 Iniciando no mundo da computação 
-- 📚 Ciência da Computação UFAL 4/8
-
   
  <div align="center">
   <a href="https://github.com/gabitenoriob">
