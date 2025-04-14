@@ -1,6 +1,6 @@
 # 👩‍💻 Gabriela Tenório
 
-🎓 Estudante do 6º período de Ciência da Computação - UFAL
+🎓 Estudante do 6º período de Ciência da Computação - UFAL  
 🏢 Estagiária na Controladoria-Geral da União (CGU)  
 📍 Maceió, Alagoas, Brasil
 
