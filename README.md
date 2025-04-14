@@ -1,5 +1,32 @@
-## Olá, me chamo Gabriela Tenório
+# 👩‍💻 Gabriela Tenório
 
+🎓 Estudante do 6º período de Ciência da Computação - UFAL
+🏢 Estagiária na Controladoria-Geral da União (CGU)  
+📍 Maceió, Alagoas, Brasil
+
+---
+
+## 💡 Sobre mim
+
+Sou apaixonada por tecnologia e estou em constante busca por aprimorar meus conhecimentos em Ciência de Dados, Inteligência Artificial e Otimização. Atualmente, estou focada em desenvolver projetos que unam essas áreas, aplicando-os em soluções práticas e inovadoras.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens:** Python, JavaScript
+- **Frameworks e Bibliotecas:** Pandas, NumPy, Scikit-learn, TensorFlow
+- **Ferramentas:** Git, Jupyter Notebook
+- **Banco de Dados:** MySQL, PostgreSQL
+
+---
+
+## 📫 Contato
+
+- [LinkedIn](https://br.linkedin.com/in/gabriela-ten%C3%B3rio-)
+- [GitHub](https://github.com/gabitenoriob)
+
+---
 
   
  <div align="center">
